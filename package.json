@@ -1,12 +1,12 @@
 {
   "displayName": "Homebridge Cooper&Hunter AC",
-  "name": "@petro-kushchak/homebridge-ch-ac-eve",
-  "version": "1.0.25",
+  "name": "@axborn/homebridge-ch-ac-eve",
+  "version": "1.0.1",
   "description": "Cooper&Hunter AC plugin for Homebridge (Homekit) with Web Hook Data Sharing ",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/petro-kushchak/homebridge-ch-ac-eve.git"
+    "url": "https://github.com/axborn/homebridge-ch-ac-eve.git"
   },
   "engines": {
     "node": ">=12.13.0",
