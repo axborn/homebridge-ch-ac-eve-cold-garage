@@ -107,7 +107,7 @@ class CHThermostatAccessory implements AccessoryPlugin {
     this.heaterCoolerService
       .getCharacteristic(hap.Characteristic.CurrentTemperature)
       .setProps({
-        minValue: 15,
+        minValue: -5,
         maxValue: 40,
         minStep: 0.01,
       })
